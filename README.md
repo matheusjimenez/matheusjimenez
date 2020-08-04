@@ -7,7 +7,7 @@
 Estou sempre procurando desafios e novas maneiras de resolver problemas!
 <br/>  Full stack Web Developer
 
- :star2:  &nbsp; Estou trabalhando na **Programmer's - Beyond IT**
+ :star2:  &nbsp; Sou estagiário da **Programmer's - Beyond IT**
  <br/> :zap: &nbsp; Buscando colaborar com projetos em Front-end usando Angular ou ReactJs
  <br/> :blush: &nbsp; Também posso te ajudar com o Back-end da sua aplicação!
  <br/> :computer: &nbsp; Atuais tecnologias que utilizo: C# | Angular | ReactJS | Node.js | Typescript | MySQL
