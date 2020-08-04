@@ -5,7 +5,7 @@
 
 ## Olá, sejam bem vindos ao meu GitHub 👋
 Estou sempre procurando desafios e novas maneiras de resolver problemas!
-Full stack Web Developer
+<br/>  Full stack Web Developer
 
  :star2:  &nbsp; Estou trabalhando na **Programmer's - Beyond IT**
  <br/> :zap: &nbsp; Buscando colaborar com projetos em Front-end usando Angular ou ReactJs
