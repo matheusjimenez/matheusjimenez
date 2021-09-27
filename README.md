@@ -7,10 +7,10 @@
 Estou sempre procurando desafios e novas maneiras de resolver problemas!
 <br/>  Full stack Web Developer
 
- :star2:  &nbsp; Sou estagiário da **Programmer's - Beyond IT**
+ :star2:  &nbsp; Sou dev na **Programmer's - Beyond IT**
  <br/> :zap: &nbsp; Buscando colaborar com projetos em Front-end usando Angular ou ReactJs
  <br/> :blush: &nbsp; Também posso te ajudar com o Back-end da sua aplicação!
- <br/> :computer: &nbsp; Atuais tecnologias que utilizo: C# | Angular | ReactJS | Node.js | Typescript | 
+ <br/> :computer: &nbsp; Atuais tecnologias que utilizo: C# | Angular | ReactJS | Node.js | 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, séries com aqueles Plot twists absurdos (hehe) e uns joguinhos como: CS:GO, LoL e Tibia.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusJimenezFalzetta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/)](https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/) 
 | 
