@@ -22,33 +22,46 @@
 </p>
 
 ## [![Tech Stack](https://fontmeme.com/permalink/211027/50b50884f8ad587c57f541cd88670895.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)
-![Angular Badge](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
+#### Frontend:
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular Badge](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
+#### Backend:
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.net](https://img.shields.io/badge/C%23_.net-339933?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### Database:
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
+#### Essencial Pack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-121214?style=for-the-badge&logo=css3&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.net](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=csharp&logoColor=white)
+#### Cloud Provider Certification:
+![azure](https://img.shields.io/badge/Microsoft_AZ_900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## [![Socials](https://fontmeme.com/permalink/211027/79dbaf06524adc6d95cc6e4e17cbf777.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![lugia](https://img.pokemondb.net/sprites/black-white/anim/normal/lugia.gif)
+## [![Socials](https://fontmeme.com/permalink/211030/49a0f1f61571ebc9a0e45c29bb068731.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![lugia](https://img.pokemondb.net/sprites/black-white/anim/normal/lugia.gif)
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-121214?style=flat&logo=linkedin&logoColor=1572B6)](https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/)
   <a href="https://www.instagram.com/matheusjimenez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-121214?style=flat&logo=instagram" alt="Instagram"></a>
 [![Gmail Badge](https://img.shields.io/badge/-matheus.jimenez@hotmail.com.br-121214?style=flat-square&logo=Gmail&logoColor=1572B6&link=mailto:matheus.jimenez@hotmail.com.br)](mailto:matheus.jimenez@hotmail.com.br)
 
 ## [![Workspace setup](https://fontmeme.com/permalink/211030/27ee570a55dfb46674be71c7a03412db.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![blastoise](https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif)
+![intel](https://img.shields.io/badge/Intel-Core_i5_7400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![16GB RAM](https://img.shields.io/badge/16GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1050Ti-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🗃 SSD 240GB
+- 🔽 200Mbps donwload / 🔼 100Mbps upload
+- 🎙 HyperX Quadcast MIC
+- 🎧 HyperX Cloud Earbuds
+- 🖥 2 displays
 
-- Windows 10 Wsl 2
-- 16GB RAM
-- Gtx 1050Ti - 4GB
-- SSD 240GB
-- i5 7400
-- 200Mbs donwload / 100Mbs upload
-- HyperX Quadcast MIC
-- HyperX Cloud Earbuds
-- 2 displays
+
