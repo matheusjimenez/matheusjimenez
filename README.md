@@ -8,6 +8,7 @@
 ## [![About Me](https://fontmeme.com/permalink/211030/80325692b5d103a0529077ecafa88e1a.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif)
 - :zap: &nbsp; Creating usefull apps in ReactJs and NodeJs 
 - ℹ &nbsp; Main Hobbies: **Games 🎮 | Exercise 🏃 | Eat 🍝🍖🍣 | Animes/Netflix 📺**
+- 🎓 Computer System Analyst Degree
 - :computer: &nbsp; Current Tecnologies: ReactJS | Node.js | C# | Angular |
 - 💬  &nbsp; Full stack Web Developer
 - :email: &nbsp; Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-MatheusJimenezFalzetta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/)](https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/) 
@@ -55,14 +56,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-matheus.jimenez@hotmail.com.br-121214?style=flat-square&logo=Gmail&logoColor=1572B6&link=mailto:matheus.jimenez@hotmail.com.br)](mailto:matheus.jimenez@hotmail.com.br)
 
 ## [![Workspace setup](https://fontmeme.com/permalink/211030/27ee570a55dfb46674be71c7a03412db.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![blastoise](https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif)
-![intel](https://img.shields.io/badge/Intel-Core_i5_7400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![intel](https://img.shields.io/badge/Intel-Core_i5_11400H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![16GB RAM](https://img.shields.io/badge/16GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1050Ti-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10_WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- 🗃 SSD 240GB
-- 🔽 200Mbps donwload / 🔼 100Mbps upload
+![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_3050-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🗃 SSD 500GB
+- 🔽 600Mbps donwload / 🔼 600Mbps upload
 - 🎙 HyperX Quadcast MIC
 - 🎧 HyperX Cloud Earbuds
-- 🖥 2 displays
+- 📺 LG Ultrawide 27''
 
 
