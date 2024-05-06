@@ -15,7 +15,7 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.jimenez@hotmail.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.jimenez@hotmail.com.br)](mailto:matheus.jimenez@hotmail.com.br) **Yeap, belive in .com.br ** :joy:
 - 📄  &nbsp;  <a href="https://1drv.ms/b/s!AqAK-lG2Xovhh7MLqc7VnlFFIwF1_g?e=8uoDHR" target="_blank">Check my CV here!</a>
-- 📃  &nbsp;  <a href="https://1drv.ms/b/s!AqAK-lG2Xovhh7MLqc7VnlFFIwF1_g?e=8uoDHR" target="_blank">My Final Paper: "THE ARTIFICIAL INTELLIGENCE ALIGNMENT PROBLEM: between ethics and results"</a>
+- 📃  &nbsp;  <a href="https://1drv.ms/b/s!AqAK-lG2Xovhh7d6oK0qtyXCzsk7gA?e=EJXlDR" target="_blank">My Final Paper: "THE ARTIFICIAL INTELLIGENCE ALIGNMENT PROBLEM: between ethics and results"</a>
 
 ## [![Github Analytics](https://fontmeme.com/permalink/211027/be6fb00c112c4f841169e0e77ea27a3a.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![abra](https://img.pokemondb.net/sprites/black-white/anim/normal/abra.gif)
 <p align="left">
