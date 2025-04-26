@@ -3,14 +3,15 @@
 
 <a href="https://fontmeme.com/pt/fonte-de-pokemon/"><img src="https://fontmeme.com/permalink/211030/bbe1fa7547a15b9a1626c7f4dca57119.png" alt="fonte-de-pokemon" border="0"></a>
 
-## Hi there, I'm Matheus Jimenez <img src="/assets/waving.gif" height="30px" alt="Hi there" />
+## Hi there! I’m Matheus Jimenez, a 28-year-old Head of Technology (Strategy & People) at an EdTech company based in São Paulo, Brazil.📍 <img src="/assets/waving.gif" height="30px" alt="Hi there" />
 
 ## [![About Me](https://fontmeme.com/permalink/211030/80325692b5d103a0529077ecafa88e1a.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![Gengar](https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif)
 - :zap: &nbsp; Creating usefull apps in ReactJs and NodeJs 
 - ℹ &nbsp; Main Hobbies: **Games 🎮 | Exercise 🏃 | Eat 🍝🍖🍣 | Animes/Netflix 📺**
 - 🎓 Computer System Analyst Degree
-- :computer: &nbsp; Current Tecnologies: ReactJS | Node.js | C# | Angular |
-- 💬  &nbsp; Full stack Web Developer
+- :computer: &nbsp; Current Tecnologies: ReactJS | Node.js 
+- 💬  &nbsp; Senior Full stack Web Developer
+- 🌐  &nbsp; Fluent in English & Portuguese
 - :email: &nbsp; Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-MatheusJimenezFalzetta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/)](https://www.linkedin.com/in/matheus-jimenez-falzetta-55b09117b/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.jimenez@hotmail.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.jimenez@hotmail.com.br)](mailto:matheus.jimenez@hotmail.com.br) **Yeap, belive in .com.br ** :joy:
@@ -26,7 +27,6 @@
 ## [![Tech Stack](https://fontmeme.com/permalink/211027/50b50884f8ad587c57f541cd88670895.png)](https://fontmeme.com/pt/fonte-de-pokemon/) ![charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)
 #### Frontend:
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular Badge](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
@@ -37,7 +37,7 @@
 #### Database:
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
-![sqlserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 #### Essencial Pack:
@@ -66,4 +66,12 @@
 - 🎧 HyperX Cloud Earbuds
 - 📺 LG Ultrawide 27''
 
+![CPU](https://img.shields.io/badge/CPU-Apple%20M3%20Pro%2014--inch-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Memória](https://img.shields.io/badge/18GB-Unified_RAM-0078D6?style=for-the-badge&logo=memoria-ram&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+- 🔋 Bateria: até 18 horas de uso
+- 💾 SSD: 1 TB
+- 🎧 Áudio estéreo com Spatial Audio
+- 🌐 Conectividade: Wi-Fi 6E / Bluetooth 5.3
 
